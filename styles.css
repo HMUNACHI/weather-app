@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Cabin+Sketch");
+body {
+  background-image: linear-gradient(100deg, #a1c4fd 0%, #ccedf9 100%);
+  color: #010238;
+  font-family: "Cabin Sketch", cursive;
+  text-align: center;
+}
+
+#title {
+  padding-top: 100px;
+}
+a {
+  color: #000b0f;
+}
+a:hover {
+  text-decoration: none;
+}
+#button{
+  border-radius:20px;
+}
+button:hover{
+  opacity:70%;
+  cursor: pointer;
+}
